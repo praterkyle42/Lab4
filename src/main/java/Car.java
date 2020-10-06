@@ -6,7 +6,7 @@
 
 /**
  *
- * @author mdpra
+ * @author kylep
  */
 public class Car {
  //define fields 
