@@ -17,7 +17,7 @@ public class Circle {
         this.radius = radius; 
     }
     public Circle() {
-        this.radius = 0.00;
+        this.radius = 0.0;
     }
 // Define Mutator and Accessor Methods
 
